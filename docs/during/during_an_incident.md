@@ -71,6 +71,7 @@ Resolve the incident as quickly and as safely as possible, use the Deputy to ass
 1. Once the call is over, you can start to follow the steps from [After an Incident](/after/after_an_incident.md).
 
 ## Steps for Deputy
+
 You are there to support the IC in whatever they need.
 
 1. Monitor the status of the incident, and notify the IC if/when the incident escalates in severity level.

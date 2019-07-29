@@ -1,8 +1,8 @@
 ---
 cover: assets/img/covers/roles.png
-description: There are several main roles for our incident response teams at PagerDuty. This page describes each of our roles in detail, why it's important to have them, and what their responsibilities are.
+description: There are several main roles for our incident response teams. This page describes each of our roles in detail, why it's important to have them, and what their responsibilities are.
 ---
-There are several main roles for our incident response teams at PagerDuty. Certain roles only have one person per incident (e.g. IC), whereas other roles can have multiple people (e.g. Subject Matter Expert, SME). It's all about coming together as a team, working the problem, and getting a solution quickly.
+There are several main roles for our incident response teams at Batteries Plus. Certain roles only have one person per incident (e.g. IC), whereas other roles can have multiple people (e.g. Subject Matter Expert, SME). It's all about coming together as a team, working the problem, and getting a solution quickly.
 
 Here is a rough outline of our role hierarchy, with each role discussed in more detail on the rest of this page.
 
@@ -27,17 +27,17 @@ As any software system grows in size and complexity, things break and cause inci
 
 ### What are the responsibilities?
 
-1. Help prepare for major incidents,
+1. Help prepare for major incidents
     * Setup communications channels for major incidents.
     * Funnel people to these communications channels when there is a major incident.
     * Train team members on how to communicate during major incidents and train other Incident Commanders.
-1. Drive major incidents to resolution,
+1. Drive major incidents to resolution
     * Get everyone on the same communication channel.
     * Collect information from team members for their services/area of ownership status.
     * Collect proposed repair actions, then recommend repair actions to be taken.
     * Delegate all repair actions, the Incident Commander is NOT a resolver.
     * Be the single authority on system status
-1. Post Mortem,
+1. Post Mortem
     * Creating the initial template right after the incident so people can put in their thoughts while fresh.
     * Assigning the post-mortem after the event is over, this can be done after the call.
     * Work with Team Leads/Managers on scheduling preventive actions.
@@ -114,7 +114,7 @@ Follow our [Scribe training guide](/training/scribe.md), and then notify the Inc
 
 ### What is it?
 
-A Subject Matter Expert (SME), sometimes called a "Resolver", is a domain expert or designated owner of a component or service that is part of the PagerDuty software stack.
+A Subject Matter Expert (SME), sometimes called a "Resolver", is a domain expert or designated owner of a component or service that is part of the Batteries Plus software stack.
 
 ### Why have one?
 

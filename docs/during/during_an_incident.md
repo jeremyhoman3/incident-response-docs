@@ -2,6 +2,8 @@
 cover: assets/img/covers/dont_panic.png
 description: Information on what to do during a major incident.
 ---
+# During an Incident
+
 Information on what to do during a major incident. See our [severity level descriptions](/before/severity_levels.md) for what constitutes a major incident.
 
 !!! note "Documentation"

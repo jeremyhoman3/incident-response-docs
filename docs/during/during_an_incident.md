@@ -22,7 +22,7 @@ Information on what to do during a major incident. See our [severity level descr
           <td colspan="3" class="centered">Need an IC? Do <code>!ic page</code> in Slack</td>
         </tr>
         <tr>
-          <td colspan="3"><em>For executive summary updates only, join <a href="#">#executive-summary-updates</a>.</em></td>
+              <td colspan="3"><em>For executive summary updates only, join <a href="#">#executive-summary-updates</a>.</em></td>
         </tr>
       </tbody>
     </table>
